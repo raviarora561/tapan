@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"SupermarketTest::testAdd":4,"SupermarketTest::testCalculatePrice":4},"times":{"Warning":0.013,"SupermarketTest::testAdd":0.015,"SupermarketTest::testCalculatePrice":0.015}}
